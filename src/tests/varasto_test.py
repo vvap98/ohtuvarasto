@@ -85,4 +85,3 @@ class TestVarasto(unittest.TestCase):
             str(self.varasto),
             "saldo = 0, vielä tilaa 10"
         )
-##turha kommentti
