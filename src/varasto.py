@@ -39,7 +39,7 @@ class Varasto:
 
         self.saldo = self.saldo - maara
 
-        return maara
+        return maara ##turha test kommentti
 
     def __str__(self):
         return f"saldo = {self.saldo}, vielä tilaa {self.paljonko_mahtuu()}"
