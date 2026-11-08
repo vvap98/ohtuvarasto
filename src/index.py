@@ -67,7 +67,7 @@ def main():
 
     testaa_virhetilanteet()
 
-    testaa_lisays(mehua, olutta)  
+    testaa_lisays(mehua, olutta)
     testaa_otto(mehua,olutta)
 if __name__ == "__main__":
     main()
